@@ -8,7 +8,7 @@
 
 ### About me
 
-Software engineer with production experience building scalable services in NodeJs and Go.
+Software engineer with production experience building scalable services.
 I care about clean system design, database performance, and observable infrastructure.
 Currently building a real-time Kafka pipeline for Booking System as a side project.
 
