@@ -24,7 +24,7 @@ Currently building a real-time Kafka pipeline for Booking System as a side proje
 
 ### 🛠 Tech Stack
 
-`Go` `NodeJs` `PostgreSQL` `Redis` `Kafka` `REST APIs` `Docker` `AWS` `Git` `Linux` `C++` `ReactJs` `Redux Tool Kit`
+`Jav` `Go` `NodeJs` `PostgreSQL` `Redis` `Kafka` `REST APIs` `Docker` `AWS` `Git` `Linux` `C++` `ReactJs` `Redux Tool Kit`
 
 ---
 
